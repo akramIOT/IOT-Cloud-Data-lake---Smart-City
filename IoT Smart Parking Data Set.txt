@@ -1,0 +1,2313 @@
+[{
+	"timestamp": 1519516800,
+	"isOccupied": true,
+	"meter": {
+		"number": 4,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519517100,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519517400,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519517700,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["61.9100", "29.3380"],
+		"address": "76229 Eveline Pass, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519518000,
+	"isOccupied": false,
+	"meter": {
+		"number": 4,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519518300,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519518600,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519518900,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-61.5722", "-146.2923"],
+		"address": "3243 Bethany Loop, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519519200,
+	"isOccupied": false,
+	"meter": {
+		"number": 4,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519519500,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519519800,
+	"isOccupied": true,
+	"meter": {
+		"number": 3,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519520100,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["-12.8557", "-165.1071"],
+		"address": "190 Seth Ways, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519520400,
+	"isOccupied": false,
+	"meter": {
+		"number": 4,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519520700,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519521000,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519521300,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519521600,
+	"isOccupied": false,
+	"meter": {
+		"number": 5,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519521900,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519522200,
+	"isOccupied": true,
+	"meter": {
+		"number": 4,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519522500,
+	"isOccupied": true,
+	"meter": {
+		"number": 5,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519522800,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519523100,
+	"isOccupied": true,
+	"meter": {
+		"number": 3,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519523400,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519523700,
+	"isOccupied": true,
+	"meter": {
+		"number": 5,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519524000,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519524300,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-45.9565", "-4.1794"],
+		"address": "36590 Reanna Canyon, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519524600,
+	"isOccupied": true,
+	"meter": {
+		"number": 5,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519524900,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["-61.5722", "-146.2923"],
+		"address": "3243 Bethany Loop, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519525200,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-32.8645", "25.9577"],
+		"address": "093 Harris Parkway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519525500,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-61.5722", "-146.2923"],
+		"address": "3243 Bethany Loop, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519525800,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-61.5722", "-146.2923"],
+		"address": "3243 Bethany Loop, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519526100,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-61.5722", "-146.2923"],
+		"address": "3243 Bethany Loop, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519526400,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519526700,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519527000,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["-20.3352", "-177.8691"],
+		"address": "44712 Rau Loaf, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519527300,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-20.3352", "-177.8691"],
+		"address": "44712 Rau Loaf, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519527600,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["61.9100", "29.3380"],
+		"address": "76229 Eveline Pass, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519527900,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["-45.9565", "-4.1794"],
+		"address": "36590 Reanna Canyon, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519528200,
+	"isOccupied": true,
+	"meter": {
+		"number": 4,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519528500,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["61.9100", "29.3380"],
+		"address": "76229 Eveline Pass, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519528800,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["-32.8645", "25.9577"],
+		"address": "093 Harris Parkway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519529100,
+	"isOccupied": false,
+	"meter": {
+		"number": 4,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519529400,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["-45.9565", "-4.1794"],
+		"address": "36590 Reanna Canyon, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519529700,
+	"isOccupied": false,
+	"meter": {
+		"number": 5,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519530000,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519530300,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519530600,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519530900,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519531200,
+	"isOccupied": true,
+	"meter": {
+		"number": 3,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519531500,
+	"isOccupied": false,
+	"meter": {
+		"number": 4,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519531800,
+	"isOccupied": false,
+	"meter": {
+		"number": 5,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519532100,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-45.9565", "-4.1794"],
+		"address": "36590 Reanna Canyon, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519532400,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519532700,
+	"isOccupied": true,
+	"meter": {
+		"number": 5,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519533000,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-45.9565", "-4.1794"],
+		"address": "36590 Reanna Canyon, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519533300,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519533600,
+	"isOccupied": true,
+	"meter": {
+		"number": 5,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519533900,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-12.8557", "-165.1071"],
+		"address": "190 Seth Ways, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519534200,
+	"isOccupied": true,
+	"meter": {
+		"number": 5,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519534500,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519534800,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519535100,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519535400,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["-12.8557", "-165.1071"],
+		"address": "190 Seth Ways, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519535700,
+	"isOccupied": true,
+	"meter": {
+		"number": 5,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519536000,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["-32.8645", "25.9577"],
+		"address": "093 Harris Parkway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519536300,
+	"isOccupied": true,
+	"meter": {
+		"number": 5,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519536600,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519536900,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519537200,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["-45.9565", "-4.1794"],
+		"address": "36590 Reanna Canyon, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519537500,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519537800,
+	"isOccupied": true,
+	"meter": {
+		"number": 3,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519538100,
+	"isOccupied": true,
+	"meter": {
+		"number": 5,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519538400,
+	"isOccupied": false,
+	"meter": {
+		"number": 4,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519538700,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-32.8645", "25.9577"],
+		"address": "093 Harris Parkway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519539000,
+	"isOccupied": true,
+	"meter": {
+		"number": 3,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519539300,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-32.8645", "25.9577"],
+		"address": "093 Harris Parkway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519539600,
+	"isOccupied": true,
+	"meter": {
+		"number": 5,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519539900,
+	"isOccupied": true,
+	"meter": {
+		"number": 3,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519540200,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519540500,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519540800,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-45.9565", "-4.1794"],
+		"address": "36590 Reanna Canyon, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519541100,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519541400,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["-20.3352", "-177.8691"],
+		"address": "44712 Rau Loaf, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519541700,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519542000,
+	"isOccupied": true,
+	"meter": {
+		"number": 5,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519542300,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519542600,
+	"isOccupied": true,
+	"meter": {
+		"number": 5,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519542900,
+	"isOccupied": false,
+	"meter": {
+		"number": 5,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519543200,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519543500,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519543800,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519544100,
+	"isOccupied": false,
+	"meter": {
+		"number": 5,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519544400,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-45.9565", "-4.1794"],
+		"address": "36590 Reanna Canyon, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519544700,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519545000,
+	"isOccupied": true,
+	"meter": {
+		"number": 3,
+		"location": ["-32.8645", "25.9577"],
+		"address": "093 Harris Parkway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519545300,
+	"isOccupied": true,
+	"meter": {
+		"number": 3,
+		"location": ["-32.8645", "25.9577"],
+		"address": "093 Harris Parkway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519545600,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519545900,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519546200,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-61.5722", "-146.2923"],
+		"address": "3243 Bethany Loop, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519546500,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519546800,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519547100,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-32.8645", "25.9577"],
+		"address": "093 Harris Parkway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519547400,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-12.8557", "-165.1071"],
+		"address": "190 Seth Ways, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519547700,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-32.8645", "25.9577"],
+		"address": "093 Harris Parkway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519548000,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519548300,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519548600,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519548900,
+	"isOccupied": false,
+	"meter": {
+		"number": 4,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519549200,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-20.3352", "-177.8691"],
+		"address": "44712 Rau Loaf, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519549500,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-12.8557", "-165.1071"],
+		"address": "190 Seth Ways, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519549800,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519550100,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["-32.8645", "25.9577"],
+		"address": "093 Harris Parkway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519550400,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519550700,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519551000,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["-32.8645", "25.9577"],
+		"address": "093 Harris Parkway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519551300,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["-32.8645", "25.9577"],
+		"address": "093 Harris Parkway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519551600,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519551900,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["-32.8645", "25.9577"],
+		"address": "093 Harris Parkway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519552200,
+	"isOccupied": false,
+	"meter": {
+		"number": 4,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519552500,
+	"isOccupied": false,
+	"meter": {
+		"number": 5,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519552800,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-61.5722", "-146.2923"],
+		"address": "3243 Bethany Loop, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519553100,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["61.9100", "29.3380"],
+		"address": "76229 Eveline Pass, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519553400,
+	"isOccupied": false,
+	"meter": {
+		"number": 4,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519553700,
+	"isOccupied": true,
+	"meter": {
+		"number": 4,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519554000,
+	"isOccupied": true,
+	"meter": {
+		"number": 3,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519554300,
+	"isOccupied": true,
+	"meter": {
+		"number": 3,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519554600,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["61.9100", "29.3380"],
+		"address": "76229 Eveline Pass, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519554900,
+	"isOccupied": true,
+	"meter": {
+		"number": 3,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519555200,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-12.8557", "-165.1071"],
+		"address": "190 Seth Ways, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519555500,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519555800,
+	"isOccupied": false,
+	"meter": {
+		"number": 4,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519556100,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-45.9565", "-4.1794"],
+		"address": "36590 Reanna Canyon, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519556400,
+	"isOccupied": true,
+	"meter": {
+		"number": 4,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519556700,
+	"isOccupied": true,
+	"meter": {
+		"number": 5,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519557000,
+	"isOccupied": false,
+	"meter": {
+		"number": 5,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519557300,
+	"isOccupied": false,
+	"meter": {
+		"number": 4,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519557600,
+	"isOccupied": true,
+	"meter": {
+		"number": 4,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519557900,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519558200,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-45.9565", "-4.1794"],
+		"address": "36590 Reanna Canyon, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519558500,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519558800,
+	"isOccupied": true,
+	"meter": {
+		"number": 3,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519559100,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519559400,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519559700,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-32.8645", "25.9577"],
+		"address": "093 Harris Parkway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519560000,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519560300,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519560600,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519560900,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-45.9565", "-4.1794"],
+		"address": "36590 Reanna Canyon, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519561200,
+	"isOccupied": false,
+	"meter": {
+		"number": 5,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519561500,
+	"isOccupied": true,
+	"meter": {
+		"number": 5,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519561800,
+	"isOccupied": true,
+	"meter": {
+		"number": 5,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519562100,
+	"isOccupied": true,
+	"meter": {
+		"number": 3,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519562400,
+	"isOccupied": false,
+	"meter": {
+		"number": 4,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519562700,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-45.9565", "-4.1794"],
+		"address": "36590 Reanna Canyon, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519563000,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519563300,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519563600,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-32.8645", "25.9577"],
+		"address": "093 Harris Parkway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519563900,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["-20.3352", "-177.8691"],
+		"address": "44712 Rau Loaf, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519564200,
+	"isOccupied": false,
+	"meter": {
+		"number": 5,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519564500,
+	"isOccupied": false,
+	"meter": {
+		"number": 4,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519564800,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519565100,
+	"isOccupied": true,
+	"meter": {
+		"number": 4,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519565400,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519565700,
+	"isOccupied": true,
+	"meter": {
+		"number": 4,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519566000,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519566300,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519566600,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519566900,
+	"isOccupied": true,
+	"meter": {
+		"number": 4,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519567200,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519567500,
+	"isOccupied": true,
+	"meter": {
+		"number": 5,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519567800,
+	"isOccupied": false,
+	"meter": {
+		"number": 5,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519568100,
+	"isOccupied": true,
+	"meter": {
+		"number": 5,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519568400,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519568700,
+	"isOccupied": false,
+	"meter": {
+		"number": 5,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519569000,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519569300,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519569600,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["-32.8645", "25.9577"],
+		"address": "093 Harris Parkway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519569900,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-32.8645", "25.9577"],
+		"address": "093 Harris Parkway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519570200,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-32.8645", "25.9577"],
+		"address": "093 Harris Parkway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519570500,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-61.5722", "-146.2923"],
+		"address": "3243 Bethany Loop, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519570800,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519571100,
+	"isOccupied": false,
+	"meter": {
+		"number": 5,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519571400,
+	"isOccupied": true,
+	"meter": {
+		"number": 5,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519571700,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["61.9100", "29.3380"],
+		"address": "76229 Eveline Pass, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519572000,
+	"isOccupied": true,
+	"meter": {
+		"number": 5,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519572300,
+	"isOccupied": true,
+	"meter": {
+		"number": 3,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519572600,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519572900,
+	"isOccupied": false,
+	"meter": {
+		"number": 4,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519573200,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519573500,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["-61.5722", "-146.2923"],
+		"address": "3243 Bethany Loop, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519573800,
+	"isOccupied": true,
+	"meter": {
+		"number": 5,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519574100,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-20.3352", "-177.8691"],
+		"address": "44712 Rau Loaf, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519574400,
+	"isOccupied": false,
+	"meter": {
+		"number": 4,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519574700,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-45.9565", "-4.1794"],
+		"address": "36590 Reanna Canyon, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519575000,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519575300,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519575600,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519575900,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519576200,
+	"isOccupied": true,
+	"meter": {
+		"number": 4,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519576500,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["61.9100", "29.3380"],
+		"address": "76229 Eveline Pass, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519576800,
+	"isOccupied": true,
+	"meter": {
+		"number": 3,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519577100,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519577400,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519577700,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519578000,
+	"isOccupied": false,
+	"meter": {
+		"number": 4,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519578300,
+	"isOccupied": false,
+	"meter": {
+		"number": 5,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519578600,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["61.9100", "29.3380"],
+		"address": "76229 Eveline Pass, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519578900,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519579200,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519579500,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519579800,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-61.5722", "-146.2923"],
+		"address": "3243 Bethany Loop, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519580100,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-45.9565", "-4.1794"],
+		"address": "36590 Reanna Canyon, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519580400,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-20.3352", "-177.8691"],
+		"address": "44712 Rau Loaf, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519580700,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-61.5722", "-146.2923"],
+		"address": "3243 Bethany Loop, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519581000,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519581300,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["-45.9565", "-4.1794"],
+		"address": "36590 Reanna Canyon, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519581600,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["-61.5722", "-146.2923"],
+		"address": "3243 Bethany Loop, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519581900,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["-61.5722", "-146.2923"],
+		"address": "3243 Bethany Loop, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519582200,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519582500,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-61.5722", "-146.2923"],
+		"address": "3243 Bethany Loop, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519582800,
+	"isOccupied": true,
+	"meter": {
+		"number": 3,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519583100,
+	"isOccupied": true,
+	"meter": {
+		"number": 3,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519583400,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519583700,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519584000,
+	"isOccupied": true,
+	"meter": {
+		"number": 4,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519584300,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519584600,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519584900,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["-32.8645", "25.9577"],
+		"address": "093 Harris Parkway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519585200,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["61.9100", "29.3380"],
+		"address": "76229 Eveline Pass, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519585500,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["-32.8645", "25.9577"],
+		"address": "093 Harris Parkway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519585800,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519586100,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519586400,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-45.9565", "-4.1794"],
+		"address": "36590 Reanna Canyon, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519586700,
+	"isOccupied": true,
+	"meter": {
+		"number": 4,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519587000,
+	"isOccupied": true,
+	"meter": {
+		"number": 3,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519587300,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519587600,
+	"isOccupied": false,
+	"meter": {
+		"number": 5,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519587900,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519588200,
+	"isOccupied": true,
+	"meter": {
+		"number": 3,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519588500,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-20.3352", "-177.8691"],
+		"address": "44712 Rau Loaf, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519588800,
+	"isOccupied": true,
+	"meter": {
+		"number": 5,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519589100,
+	"isOccupied": true,
+	"meter": {
+		"number": 4,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519589400,
+	"isOccupied": true,
+	"meter": {
+		"number": 3,
+		"location": ["-32.8645", "25.9577"],
+		"address": "093 Harris Parkway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519589700,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["-61.5722", "-146.2923"],
+		"address": "3243 Bethany Loop, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519590000,
+	"isOccupied": true,
+	"meter": {
+		"number": 5,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519590300,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-32.8645", "25.9577"],
+		"address": "093 Harris Parkway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519590600,
+	"isOccupied": false,
+	"meter": {
+		"number": 5,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519590900,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519591200,
+	"isOccupied": true,
+	"meter": {
+		"number": 5,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519591500,
+	"isOccupied": false,
+	"meter": {
+		"number": 5,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519591800,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-45.9565", "-4.1794"],
+		"address": "36590 Reanna Canyon, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519592100,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519592400,
+	"isOccupied": true,
+	"meter": {
+		"number": 3,
+		"location": ["-32.8645", "25.9577"],
+		"address": "093 Harris Parkway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519592700,
+	"isOccupied": true,
+	"meter": {
+		"number": 5,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519593000,
+	"isOccupied": true,
+	"meter": {
+		"number": 3,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519593300,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519593600,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-12.8557", "-165.1071"],
+		"address": "190 Seth Ways, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519593900,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["-45.9565", "-4.1794"],
+		"address": "36590 Reanna Canyon, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519594200,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-61.5722", "-146.2923"],
+		"address": "3243 Bethany Loop, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519594500,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519594800,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519595100,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519595400,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519595700,
+	"isOccupied": false,
+	"meter": {
+		"number": 4,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519596000,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519596300,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519596600,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519596900,
+	"isOccupied": false,
+	"meter": {
+		"number": 5,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519597200,
+	"isOccupied": true,
+	"meter": {
+		"number": 4,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519597500,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-61.5722", "-146.2923"],
+		"address": "3243 Bethany Loop, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519597800,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-12.8557", "-165.1071"],
+		"address": "190 Seth Ways, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519598100,
+	"isOccupied": false,
+	"meter": {
+		"number": 5,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519598400,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519598700,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519599000,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519599300,
+	"isOccupied": true,
+	"meter": {
+		"number": 3,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519599600,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-61.5722", "-146.2923"],
+		"address": "3243 Bethany Loop, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519599900,
+	"isOccupied": true,
+	"meter": {
+		"number": 4,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519600200,
+	"isOccupied": true,
+	"meter": {
+		"number": 5,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519600500,
+	"isOccupied": false,
+	"meter": {
+		"number": 1,
+		"location": ["-20.3352", "-177.8691"],
+		"address": "44712 Rau Loaf, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519600800,
+	"isOccupied": true,
+	"meter": {
+		"number": 3,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519601100,
+	"isOccupied": false,
+	"meter": {
+		"number": 5,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519601400,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["-61.5722", "-146.2923"],
+		"address": "3243 Bethany Loop, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519601700,
+	"isOccupied": false,
+	"meter": {
+		"number": 4,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519602000,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519602300,
+	"isOccupied": false,
+	"meter": {
+		"number": 2,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519602600,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["-61.5722", "-146.2923"],
+		"address": "3243 Bethany Loop, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519602900,
+	"isOccupied": false,
+	"meter": {
+		"number": 3,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519603200,
+	"isOccupied": true,
+	"meter": {
+		"number": 4,
+		"location": ["23.1485", "-139.9646"],
+		"address": "069 Aufderhar Causeway, XYZ, AB"
+	}
+}]
